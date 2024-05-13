@@ -2,7 +2,7 @@
 # SQL Server Automation Scripts
 
 This repository contains PowerShell scripts designed to automate various SQL Server tasks. These scripts aim to simplify database administration and operations tasks such as backup, migrations of databases etc
-
+All Scripts has been made in diffrent time so some functions may not work or can need adjusting.
 ### Prerequisites
 
 Before running these scripts, ensure you have the following:
