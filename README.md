@@ -1,3 +1,5 @@
+#TEMPDBCHECK
+You have to create sql server jobs and create 3 stored procedures , you have to execute 1 stored procedure which will trigger next 2.
 
 # SQL Server Automation Scripts
 
@@ -24,6 +26,8 @@ Contributions are welcome! For major changes, please open an issue first to disc
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+#TEMPDBCHECK
+You have to create powe
 
 
 Make sure to adjust the script names, parameters, and paths according to your actual scripts and project structure. This README template should provide a good starting point for documenting your project effectively on GitHub.
